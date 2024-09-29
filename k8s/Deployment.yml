@@ -16,7 +16,7 @@ spec:
         app: react-app
     spec:
       containers:
-        - name: react-app-container
+        - name: react-app-container2
           image: muhammadelmansi/react-app2:v1
           ports:
             - containerPort: 80
