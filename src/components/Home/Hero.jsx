@@ -13,7 +13,7 @@ const Hero = () => {
       {/* LEFT */}
       <div className="flex flex-col">
         <h2 className="max-w-2xl text-4xl font-bold lg:text-6xl">
-          We are not changing
+          We are changing the way people shop
         </h2>
         <p className="max-w-xl my-10 text-lg leading-8">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Non
